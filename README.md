@@ -1,4 +1,4 @@
-# Marktguru Senior Data & GenAI / ML Engineer
+# Mg Senior Data & GenAI / ML Engineer
 
 All the parts of the part 2 are contained in the notebook.
 
